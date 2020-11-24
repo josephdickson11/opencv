@@ -1,2 +1,3 @@
 # opencv
-repo for opencv 
+repo for learning opencv and creating opencv projects
+
